@@ -4,6 +4,9 @@
 #include "src/Funcoes.h"
 using namespace std;
 
+// Aluno: José Carlos Oliveira de Lima
+// Matrícula: 20230055731
+
 // Limpa buffer do cin após erros
 void limparEntrada() {
     cin.clear();
